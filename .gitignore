@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+/venv/
+/.idea/
+/key.py
+/pyvenv.cfg
+/test_code.py
